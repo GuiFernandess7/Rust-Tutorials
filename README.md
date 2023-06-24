@@ -1,2 +1,2 @@
-# Rust-Tutorials
-Rust tutorials | Tutoriais de rust
+# Rust Tutorials | Tutoriais de Rust
+
