@@ -1,10 +1,11 @@
 # Rust Tutorials | Tutoriais de Rust
 
+Bem-vindo(a) ao repositório de tutoriais em Rust! Este repositório contém uma coleção de tutoriais que abrangem desde os conceitos básicos 
+até níveis intermediários da linguagem de programação Rust (Ainda está no início e por isso pretendo colocar tutoriais mais avançados).
+
 <p align="center">
   <img src="layout/Rust.png" >
 </p>
-
-Bem-vindo(a) ao repositório de tutoriais em Rust! Este repositório contém uma coleção de tutoriais que abrangem desde os conceitos básicos até níveis intermediários da linguagem de programação Rust (Ainda está no início e por isso pretendo colocar tutoriais mais avançados).
 
 ### O que é Rust?
 Rust é uma linguagem de programação moderna e de alto desempenho, desenvolvida com foco em segurança, concorrência e velocidade. Ela combina uma sintaxe amigável e expressiva com recursos avançados de gerenciamento de memória, tornando-a uma excelente opção para o desenvolvimento de sistemas confiáveis e eficientes.
