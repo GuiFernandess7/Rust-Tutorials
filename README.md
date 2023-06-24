@@ -1,7 +1,7 @@
 # Rust Tutorials | Tutoriais de Rust
 
 <p align="center">
-  <img src="layout/rust.png" >
+  <img src="layout/Rust.png" >
 </p>
 
 Bem-vindo(a) ao repositório de tutoriais em Rust! Este repositório contém uma coleção de tutoriais que abrangem desde os conceitos básicos até níveis intermediários da linguagem de programação Rust (Ainda está no início e por isso pretendo colocar tutoriais mais avançados).
