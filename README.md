@@ -9,7 +9,6 @@ até níveis intermediários da linguagem de programação Rust (Ainda está no 
 
 ### O que é Rust?
 Rust é uma linguagem de programação moderna e de alto desempenho, desenvolvida com foco em segurança, concorrência e velocidade. Ela combina uma sintaxe amigável e expressiva com recursos avançados de gerenciamento de memória, tornando-a uma excelente opção para o desenvolvimento de sistemas confiáveis e eficientes.
-Assuntos abordados
 
 Este repositório inclui tutoriais que exploram tópicos conceitos básicos de Rust. Aqui está uma visão geral dos assuntos abordados nos tutoriais:
 
