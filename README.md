@@ -22,3 +22,4 @@ Este repositório inclui tutoriais que exploram tópicos conceitos básicos de R
 * **Functions 1 | Funções 1**: Aprenda a criar e utilizar funções em Rust, passando argumentos e retornando valores.
 * **Memory Management | Gerenciamento de Memória**: Explicação de memória Static, Stack e Heap.
 * **String Manipulation | Manipulação de Strings**: Descubra como manipular e trabalhar com strings em Rust, incluindo concatenação, formatação e métodos de manipulação.
+
